@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Wallet, Store, Tag, MapPin, User, LogOut, Settings, LayoutDashboard } from "lucide-react";
+import { Wallet, Store, Tag, MapPin, User, LogOut } from "lucide-react";
 import { createClient } from "@/lib/supabase/server";
 import { logout } from "@/app/(auth)/actions";
 
