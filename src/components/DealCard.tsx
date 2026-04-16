@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { BadgePercent, MapPin } from "lucide-react";
+import { MapPin } from "lucide-react";
 
 interface DealCardProps {
   id: string;

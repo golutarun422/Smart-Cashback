@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { User, Wallet, Store, Tag, MapPin } from "lucide-react";
+import { Wallet, Store, Tag, MapPin } from "lucide-react";
 
 export default function Navbar() {
   return (

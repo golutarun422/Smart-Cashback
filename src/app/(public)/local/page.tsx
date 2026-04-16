@@ -1,4 +1,4 @@
-import { MapPin, Phone, CheckCircle, Percent } from "lucide-react";
+import { MapPin, CheckCircle, Percent } from "lucide-react";
 import Link from "next/link";
 import { createClient } from '@/lib/supabase/server';
 
