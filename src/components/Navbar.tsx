@@ -1,4 +1,4 @@
-// Deployment Heartbeat: 19:39
+// Deployment Heartbeat: 19:49.
 import Link from "next/link";
 import { Wallet, Store, Tag, MapPin, User, LogOut } from "lucide-react";
 import { createClient } from "@/lib/supabase/server";
